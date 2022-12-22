@@ -1,2 +1,2 @@
 # hello-world
-Repository for learning about github (online tutorial)
+Repository that I am using to learn about github (online tutorial)
